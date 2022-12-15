@@ -8,7 +8,10 @@ This projects uses a variety of machine learning tactics to see if it can sucess
 The data was downloaded from YahooFinance which can be found at https://finance.yahoo.com/quote/PG/history?p=PG 
 
 ## Video Link to Explanation of Code:
+https://youtu.be/qz0OswVbUcs
+
 ## Video Link to Presentation of the Project and Results
+https://youtu.be/OZIXr9FkzE8
 
 ## Data Statistics
 ### General Statistics
