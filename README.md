@@ -46,3 +46,14 @@ The data set is organizeed by date, open, close, high, low, adjusted close and v
 
 From the above results we see that the SVC performed the worse. The best on the training set was the XGB Classifier, but looking at how it performed ont the validation test shows that the model is likely overfitting. The logistic regression performed the best, but still barely better than a 50/50 guess.
 
+## Sources
+
+https://neptune.ai/blog/predicting-stock-prices-using-machine-learning
+
+https://www.simplilearn.com/tutorials/machine-learning-tutorial/stock-price-prediction-using-machine-learning  
+
+https://www.geeksforgeeks.org/stock-price-prediction-using-machine-learning-in-python/   
+  
+https://towardsdatascience.com/predicting-stock-prices-using-a-keras-lstm-model-4225457f0233
+
+https://www.analyticsvidhya.com/blog/2021/10/machine-learning-for-stock-market-prediction-with-step-by-step-implementation/
